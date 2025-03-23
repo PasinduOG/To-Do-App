@@ -16,8 +16,8 @@ A simple and efficient **Task Management Web App** built with **Node.js**, **Exp
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/PasinduOG/To-Do-App.git
+cd To-Do-App
 ```
 
 ### 2️⃣ Install Dependencies  
@@ -28,7 +28,7 @@ npm install
 
 ### 3️⃣ Start the Development Server  
 ```sh
-npm start
+npm run dev
 ```
 The app should now be running on **http://localhost:3000** (or your configured port).  
 
